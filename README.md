@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hdsfdhllh
 - 👀 I’m interested in Instrumentation Control, Computation, IOT, AI, Machine Learning
-- 🌱 I’m currently learning at Physical Engineering, Telkom University and M achine Learning, Bangkit Academy 2022
+- 🌱 I’m currently learning at Physical Engineering, Telkom University and Machine Learning, Bangkit Academy 2022
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
